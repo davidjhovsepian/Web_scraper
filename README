@@ -1,0 +1,26 @@
+# Web Scraper App
+
+## Overview
+
+The Web Scraper App is a simple tool for extracting data from websites. It allows users to specify a target URL and define the data they want to scrape using custom rules. This README provides information on setting up and using the app.
+
+## Features
+
+- Specify target URL for scraping
+- Define custom rules for data extraction
+- Export scraped data to various formats (CSV, JSON, etc.)
+- User-friendly command-line interface
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x installed
+- [Install Pipenv](https://pipenv.pypa.io/en/latest/installation.html) for managing dependencies.
+
+### Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/your-username/web-scraper-app.git
